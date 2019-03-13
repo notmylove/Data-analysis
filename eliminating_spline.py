@@ -5,7 +5,6 @@ from scipy import interpolate
 import matplotlib.pyplot as plt
 
 
-
 class Eliminating:
     def __init__(self, arr1, arr2, arr1_index):
         self.arr1 = arr1
