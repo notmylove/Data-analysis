@@ -3,11 +3,7 @@ from array import array
 from numpy.core.multiarray import ndarray
 from scipy import interpolate
 import matplotlib.pyplot as plt
-from sklearn.cluster import KMeans
-import scipy
-import pandas as pd
-from pandas import DataFrame
-from sklearn import preprocessing
+
 
 
 class Eliminating:
