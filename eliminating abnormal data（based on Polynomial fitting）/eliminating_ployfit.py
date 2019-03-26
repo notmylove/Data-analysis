@@ -1,6 +1,5 @@
 import numpy as np
 from array import array
-from scipy import interpolate
 import matplotlib.pyplot as plt
 
 
