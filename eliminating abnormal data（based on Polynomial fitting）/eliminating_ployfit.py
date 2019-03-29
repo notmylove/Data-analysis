@@ -307,8 +307,8 @@ def main():
         num2 = sorted(num1 + [0, len(arr1)])
         result1, list_k1 = eliminating.zhengjian(num2)
         result2, list_k2 = eliminating.nijian(num2)
-        # 由于是采用双向检验，对于双向检验的结果都判定为非异常时，则该数据正常，
-        # 对于双向检验结果都判定为异常时，则该数据为异常值，
+        # 由于是采用双向检验，对于双向检验的结果都判定为非异常时，则该数据正常
+        # 对于双向检验结果都判定为异常时，则该数据为异常值
         # 对于双向检验结果不同时，则需要进一步检验
         result3 = result1 + result2
         result3 = np.select([result3 == 2, result3 == 1], [1, 2], result3)
