@@ -6,4 +6,4 @@
  **算法流程图**
  ![流程图](https://github.com/notmylove/Data-analysis/blob/master/eliminating%20abnormal%20data/pictures/Program%20flow%20chart.jpg)
  
-## 由于文章公式太多，具体的模型写在这里[基于B样条曲线的异常数据剔除与修复](https://www.zybuluo.com/notmylove/note/1428375)
+## 由于文章公式太多，具体的模型在[基于B样条曲线的异常数据剔除与修复](https://www.zybuluo.com/notmylove/note/1428375)
