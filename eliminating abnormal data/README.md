@@ -7,3 +7,6 @@
  ![流程图](https://github.com/notmylove/Data-analysis/blob/master/eliminating%20abnormal%20data/pictures/Program%20flow%20chart.jpg)
  
 ## 由于文章公式太多，具体的模型在[基于B样条曲线的异常数据剔除与修复](https://www.zybuluo.com/notmylove/note/1428375)
+## 思考
+这里是基于双向检验的，那如果是基于单向检验又会是什么结果呢？这其中就包括**正向检验与逆向检验**，他们之间与双向检验又会有怎么的对比呢？
+
