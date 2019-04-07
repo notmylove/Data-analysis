@@ -100,7 +100,7 @@ def main():
     ax2.set_ylabel(r"$\sigma(Vx)/(m/s)$")
     plt.yticks([-20, 0, 20])
     plt.show()
-
+    
 if __name__ == "__main__":
     main()
 
