@@ -8,7 +8,7 @@ class PositiveTest:
     def __init__(self, arr1, arr2):
         self.arr1 = arr1
         self.arr2 = arr2
-
+        
     def spline_smoothing(self):
         # 样条平滑方法,平滑系数s取默认值
         spline1 = interpolate.UnivariateSpline(self.arr1, self.arr2, k=3)
